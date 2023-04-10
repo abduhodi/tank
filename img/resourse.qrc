@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="enemy_down.png">enemy_down.png</file>
+        <file alias="enemy_left.png">enemy_left.png</file>
+        <file alias="enemy_right.png">enemy_right.png</file>
+        <file alias="enemy_up.png">enemy_up.png</file>
+        <file alias="explosion.png">explosion.png</file>
+        <file alias="me_down.png">me_down.png</file>
+        <file alias="me_left.png">me_left.png</file>
+        <file alias="me_right.png">me_right.png</file>
+        <file alias="me_up.png">me_up.png</file>
+        <file alias="my_down_bullet.png">my_down_bullet.png</file>
+        <file alias="my_right_bullet.png">my_right_bullet.png</file>
+        <file alias="my_left_bullet.png">my_left_bullet.png</file>
+        <file alias="my_up_bullet.png">my_up_bullet.png</file>
+        <file alias="enemy_down_bullet.png">enemy_down_bullet.png</file>
+        <file alias="enemy_left_bullet.png">enemy_left_bullet.png</file>
+        <file alias="enemy_up_bullet.png">enemy_up_bullet.png</file>
+        <file alias="enemy_right_bullet.png">enemy_right_bullet.png</file>
+    </qresource>
+</RCC>
